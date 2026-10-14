@@ -1,0 +1,374 @@
+Error: Error transforming route file C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/src/routes/index.tsx: SyntaxError: Expected corresponding JSX closing tag for <>. (599:10)
+    at file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-generator/dist/esm/generator.js:127:13
+    at async generate (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-generator-plugin.js:38:4)
+    at async PluginContext.watchChange (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-generator-plugin.js:48:4)
+    at async Promise.all (index 1)
+    at async EnvironmentPluginContainer.hookParallel (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28665:3)
+    at async EnvironmentPluginContainer.watchChange (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28825:3)
+    at async Promise.all (index 0)
+    at async FSWatcher.<anonymous> (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:25582:3)
+Error: Error transforming route file C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/src/routes/index.tsx: SyntaxError: Identifier 'heroImg' has already been declared. (30:7)
+    at file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-generator/dist/esm/generator.js:127:13
+    at async generate (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-generator-plugin.js:38:4)
+    at async PluginContext.watchChange (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-generator-plugin.js:48:4)
+    at async Promise.all (index 1)
+    at async EnvironmentPluginContainer.hookParallel (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28665:3)
+    at async EnvironmentPluginContainer.watchChange (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28825:3)
+    at async Promise.all (index 0)
+    at async FSWatcher.<anonymous> (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:25582:3)
+Error: Error transforming route file C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/src/routes/property-types.tsx: SyntaxError: Missing semicolon. (26:27)
+    at file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-generator/dist/esm/generator.js:127:13
+    at async generate (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-generator-plugin.js:38:4)
+    at async PluginContext.watchChange (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-generator-plugin.js:48:4)
+    at async Promise.all (index 1)
+    at async EnvironmentPluginContainer.hookParallel (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28665:3)
+    at async EnvironmentPluginContainer.watchChange (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28825:3)
+    at async Promise.all (index 0)
+    at async FSWatcher.<anonymous> (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:25582:3)
+istrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10881:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10831:21)
+      at C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9775:39
+      at TypeScriptParserMixin.tryParse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:6907:20)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9775:18)
+      at C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10800:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12426:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10800:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12493:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:11675:28)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:11331:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:4764:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:11081:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:11066:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:11046:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9837:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10899:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10904:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10881:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10831:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9786:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10784:23)
+      at C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10780:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12421:16)
+      at TypeScriptParserMixin.parseExpression (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10780:17)
+      at TypeScriptParserMixin.parseReturnStatement (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13142:28)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12798:21)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12767:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12747:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13316:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13309:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13297:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12100:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12086:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9172:18)
+      at C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13445:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12403:14)
+      at TypeScriptParserMixin.parseFunction (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13444:10)
+[2m٧:٠٨:٢٦ م[22m [31m[1m[vite][22m[39m [31mInternal server error: Expected corresponding JSX closing tag for <>. (599:10)[39m
+  Plugin: [35mtanstack-router:code-splitter:compile-virtual-file[39m
+  File: [36mC:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/src/routes/index.tsx?tsr-split=component[39m:599:10
+[33m  605 |                <div className="relative aspect-[16/9] overflow-hidden bg-muted">
+  606 |                  <div className="grid grid-cols-2 gap-0.5 h-full">
+  607 |  ...ntCity} alt="Mont City" loading="lazy" className="h-full w-full object-cover" />
+      |                                                                 ^
+  608 |                    <img                  src={landMontCity2} alt="Mont City 2" loading="lazy" className="h-full w-full...
+  609 |                  </div>[39m
+      at constructor (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:4720:14)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:4749:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:4759:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:11081:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:11066:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:11046:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9837:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10899:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10904:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10881:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10831:21)
+      at C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9775:39
+      at TypeScriptParserMixin.tryParse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:6907:20)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9775:18)
+      at C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10800:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12426:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10800:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12493:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:11675:28)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:11331:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:4764:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:11081:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:11066:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:11046:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9837:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10899:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10904:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10881:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10831:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9786:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10784:23)
+      at C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10780:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12421:16)
+      at TypeScriptParserMixin.parseExpression (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10780:17)
+      at TypeScriptParserMixin.parseReturnStatement (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13142:28)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12798:21)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12767:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12747:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13316:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13309:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13297:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12100:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12086:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9172:18)
+      at C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13445:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12403:14)
+      at TypeScriptParserMixin.parseFunction (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13444:10)
+Error: Error transforming route file C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/src/routes/index.tsx: SyntaxError: Identifier 'heroImg' has already been declared. (30:7)
+    at file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-generator/dist/esm/generator.js:127:13
+    at async generate (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-generator-plugin.js:38:4)
+    at async PluginContext.watchChange (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-generator-plugin.js:48:4)
+    at async Promise.all (index 1)
+    at async EnvironmentPluginContainer.hookParallel (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28665:3)
+    at async EnvironmentPluginContainer.watchChange (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28825:3)
+    at async Promise.all (index 0)
+    at async FSWatcher.<anonymous> (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:25582:3)
+[2m٧:١٦:١٩ م[22m [31m[1m[vite][22m[39m [31mInternal server error: Identifier 'heroImg' has already been declared. (30:7)[39m
+  Plugin: [35mtanstack-router:code-splitter:compile-virtual-file[39m
+  File: [36mC:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/src/routes/index.tsx?tsr-split=component[39m:30:0
+[33m  28 |  import montCity4Img from "@/assets/mont-city-4.png";
+  29 |  import mountAgiba7Img from "@/assets/mount-agiba-7.png";
+  30 |  import heroImg from "@/assets/hero-home.jpg";
+     |         ^
+  31 |  import type { Database } from "@/integrations/supabase/types";
+  32 |  [39m
+      at constructor (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptScopeHandler.checkRedeclarationInScope (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:1619:19)
+      at TypeScriptScopeHandler.declareName (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:1585:12)
+      at TypeScriptScopeHandler.declareName (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:4880:11)
+      at TypeScriptParserMixin.declareNameFromIdentifier (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:7567:16)
+      at TypeScriptParserMixin.checkIdentifier (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:7563:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:7500:12)
+      at TypeScriptParserMixin.finishImportSpecifier (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14266:10)
+      at TypeScriptParserMixin.parseImportSpecifierLocal (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14263:31)
+      at TypeScriptParserMixin.maybeParseDefaultImportSpecifier (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14366:12)
+      at TypeScriptParserMixin.parseImportSpecifiersAndAfter (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14239:29)
+      at TypeScriptParserMixin.parseImport (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14235:17)
+      at TypeScriptParserMixin.parseImport (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9353:26)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12876:27)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12767:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12744:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13316:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13309:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12622:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12612:25)
+      at TypeScriptParserMixin.parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14488:25)
+      at TypeScriptParserMixin.parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10126:18)
+      at parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14522:38)
+      at parseAst (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-utils/dist/esm/ast.js:7:9)
+      at compileCodeSplitVirtualRoute (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/code-splitter/compilers.js:555:14)
+      at handleCompilingVirtualFile (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-code-splitter-plugin.js:120:18)
+      at TransformPluginContext.handler (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-code-splitter-plugin.js:191:13)
+      at TransformPluginContext.<anonymous> (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/unplugin/dist/index.js:636:19)
+      at EnvironmentPluginContainer.transform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28801:51)
+      at async loadAndTransform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:22670:26)
+      at async viteTransformMiddleware (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:24546:20)
+[2m٧:١٦:١٩ م[22m [31m[1m[vite][22m[39m [31mInternal server error: Identifier 'heroImg' has already been declared. (30:7)[39m
+  Plugin: [35mtanstack-router:code-splitter:compile-reference-file[39m
+  File: [36mC:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/src/routes/index.tsx[39m:30:0
+[33m  28 |  import montCity4Img from "@/assets/mont-city-4.png";
+  29 |  import mountAgiba7Img from "@/assets/mount-agiba-7.png";
+  30 |  import heroImg from "@/assets/hero-home.jpg";
+     |         ^
+  31 |  import type { Database } from "@/integrations/supabase/types";
+  32 |  [39m
+      at constructor (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptScopeHandler.checkRedeclarationInScope (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:1619:19)
+      at TypeScriptScopeHandler.declareName (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:1585:12)
+      at TypeScriptScopeHandler.declareName (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:4880:11)
+      at TypeScriptParserMixin.declareNameFromIdentifier (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:7567:16)
+      at TypeScriptParserMixin.checkIdentifier (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:7563:12)
+      at TypeScriptParserMixin.checkLVal (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:7500:12)
+      at TypeScriptParserMixin.finishImportSpecifier (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14266:10)
+      at TypeScriptParserMixin.parseImportSpecifierLocal (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14263:31)
+      at TypeScriptParserMixin.maybeParseDefaultImportSpecifier (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14366:12)
+      at TypeScriptParserMixin.parseImportSpecifiersAndAfter (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14239:29)
+      at TypeScriptParserMixin.parseImport (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14235:17)
+      at TypeScriptParserMixin.parseImport (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9353:26)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12876:27)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12767:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12744:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13316:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13309:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12622:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12612:25)
+      at TypeScriptParserMixin.parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14488:25)
+      at TypeScriptParserMixin.parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10126:18)
+      at parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14522:38)
+      at parseAst (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-utils/dist/esm/ast.js:7:9)
+      at detectCodeSplitGroupingsFromRoute (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/code-splitter/compilers.js:760:14)
+      at handleCompilingReferenceFile (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-code-splitter-plugin.js:61:20)
+      at TransformPluginContext.handler (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-code-splitter-plugin.js:152:96)
+      at TransformPluginContext.<anonymous> (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/unplugin/dist/index.js:636:19)
+      at EnvironmentPluginContainer.transform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28801:51)
+      at async loadAndTransform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:22670:26)
+      at async viteTransformMiddleware (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:24546:20)
+[2m٥:١٠:٥٨ م[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "@/components/PropertyTypesHeroCarousel" from "src/routes/property-types.tsx?tsr-split=component". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/src/routes/property-types.tsx?tsr-split=component[39m:31:0
+[33m  13 |  import { useTranslation } from "react-i18next";
+  14 |  import { PropertyTypesShowcaseGrid } from "@/components/PropertyTypeShowcase";
+  15 |  import { HERO_CAROUSEL } from "@/components/PropertyTypesHeroCarousel";
+     |                                 ^
+  16 |  function seededRandom(seed) {
+  17 |    let s = seed % 2147483647;[39m
+      at TransformPluginContext._formatLog (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:29003:43)
+      at TransformPluginContext.error (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:29000:14)
+      at normalizeUrl (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:27123:18)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:27181:32
+      at async Promise.all (index 13)
+      at async TransformPluginContext.transform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:27149:4)
+      at async EnvironmentPluginContainer.transform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28801:14)
+      at async loadAndTransform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:22670:26)
+      at async viteTransformMiddleware (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:24546:20)
+Error: Error transforming route file C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/src/routes/property-types.tsx: SyntaxError: Missing semicolon. (26:27)
+    at file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-generator/dist/esm/generator.js:127:13
+    at async generate (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-generator-plugin.js:38:4)
+    at async PluginContext.watchChange (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-generator-plugin.js:48:4)
+    at async Promise.all (index 1)
+    at async EnvironmentPluginContainer.hookParallel (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28665:3)
+    at async EnvironmentPluginContainer.watchChange (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28825:3)
+    at async Promise.all (index 0)
+    at async FSWatcher.<anonymous> (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:25582:3)
+[2m٨:١٣:٥٤ م[22m [31m[1m[vite][22m[39m [31mInternal server error: Missing semicolon. (26:27)[39m
+  Plugin: [35mtanstack-router:code-splitter:compile-reference-file[39m
+  File: [36mC:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/src/routes/property-types.tsx[39m:26:27
+[33m  25 |    Calculator,
+  26 |  } from "lucide-react"; from "lucide-react";
+  27 |  import { useTranslation } from "react-i18next";
+     |          ^
+  28 |  import { PropertyTypesShowcaseGrid } from "@/components/PropertyTypeShowcase";
+  29 |  import { HERO_CAROUSEL } from "@/components/PropertyTypesHeroCarousel";[39m
+      at constructor (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.semicolon (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:6895:10)
+      at TypeScriptParserMixin.parseExpressionStatement (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13285:10)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12899:19)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12767:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12744:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13316:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13309:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12622:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12612:25)
+      at TypeScriptParserMixin.parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14488:25)
+      at TypeScriptParserMixin.parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10126:18)
+      at parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14522:38)
+      at parseAst (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-utils/dist/esm/ast.js:7:9)
+      at detectCodeSplitGroupingsFromRoute (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/code-splitter/compilers.js:760:14)
+      at handleCompilingReferenceFile (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-code-splitter-plugin.js:61:20)
+      at TransformPluginContext.handler (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-code-splitter-plugin.js:152:96)
+      at TransformPluginContext.<anonymous> (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/unplugin/dist/index.js:636:19)
+      at EnvironmentPluginContainer.transform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28801:51)
+      at async loadAndTransform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:22670:26)
+      at async viteTransformMiddleware (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:24546:20)
+[2m٨:١٣:٥٤ م[22m [31m[1m[vite][22m[39m [31mInternal server error: Missing semicolon. (26:27)[39m
+  Plugin: [35mtanstack-router:code-splitter:compile-virtual-file[39m
+  File: [36mC:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/src/routes/property-types.tsx?tsr-split=component[39m:26:27
+[33m  25 |    Calculator,
+  26 |  } from "lucide-react"; from "lucide-react";
+  27 |  import { useTranslation } from "react-i18next";
+     |          ^
+  28 |  import { PropertyTypesShowcaseGrid } from "@/components/PropertyTypeShowcase";
+  29 |  import { HERO_CAROUSEL } from "@/components/PropertyTypesHeroCarousel";[39m
+      at constructor (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.semicolon (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:6895:10)
+      at TypeScriptParserMixin.parseExpressionStatement (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13285:10)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12899:19)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12767:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12744:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13316:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13309:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12622:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12612:25)
+      at TypeScriptParserMixin.parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14488:25)
+      at TypeScriptParserMixin.parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10126:18)
+      at parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14522:38)
+      at parseAst (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-utils/dist/esm/ast.js:7:9)
+      at compileCodeSplitVirtualRoute (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/code-splitter/compilers.js:555:14)
+      at handleCompilingVirtualFile (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-code-splitter-plugin.js:120:18)
+      at TransformPluginContext.handler (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-code-splitter-plugin.js:191:13)
+      at TransformPluginContext.<anonymous> (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/unplugin/dist/index.js:636:19)
+      at EnvironmentPluginContainer.transform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28801:51)
+      at async loadAndTransform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:22670:26)
+      at async viteTransformMiddleware (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:24546:20)
+[2m٨:١٣:٥٥ م[22m [31m[1m[vite][22m[39m [31mInternal server error: Missing semicolon. (26:27)[39m
+  Plugin: [35mtanstack-router:code-splitter:compile-reference-file[39m
+  File: [36mC:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/src/routes/property-types.tsx[39m:26:27
+[33m  25 |    Calculator,
+  26 |  } from "lucide-react"; from "lucide-react";
+  27 |  import { useTranslation } from "react-i18next";
+     |          ^
+  28 |  import { PropertyTypesShowcaseGrid } from "@/components/PropertyTypeShowcase";
+  29 |  import { HERO_CAROUSEL } from "@/components/PropertyTypesHeroCarousel";[39m
+      at constructor (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.semicolon (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:6895:10)
+      at TypeScriptParserMixin.parseExpressionStatement (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13285:10)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12899:19)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12767:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12744:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13316:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13309:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12622:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12612:25)
+      at TypeScriptParserMixin.parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14488:25)
+      at TypeScriptParserMixin.parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10126:18)
+      at parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14522:38)
+      at parseAst (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-utils/dist/esm/ast.js:7:9)
+      at detectCodeSplitGroupingsFromRoute (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/code-splitter/compilers.js:760:14)
+      at handleCompilingReferenceFile (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-code-splitter-plugin.js:61:20)
+      at TransformPluginContext.handler (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-code-splitter-plugin.js:152:96)
+      at TransformPluginContext.<anonymous> (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/unplugin/dist/index.js:636:19)
+      at EnvironmentPluginContainer.transform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28801:51)
+      at async loadAndTransform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:22670:26)
+      at async viteTransformMiddleware (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:24546:20)
+[2m٨:١٣:٥٥ م[22m [31m[1m[vite][22m[39m [31mInternal server error: Missing semicolon. (26:27)[39m
+  Plugin: [35mtanstack-router:code-splitter:compile-virtual-file[39m
+  File: [36mC:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/src/routes/property-types.tsx?tsr-split=component[39m:26:27
+[33m  25 |    Calculator,
+  26 |  } from "lucide-react"; from "lucide-react";
+  27 |  import { useTranslation } from "react-i18next";
+     |          ^
+  28 |  import { PropertyTypesShowcaseGrid } from "@/components/PropertyTypeShowcase";
+  29 |  import { HERO_CAROUSEL } from "@/components/PropertyTypesHeroCarousel";[39m
+      at constructor (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.semicolon (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:6895:10)
+      at TypeScriptParserMixin.parseExpressionStatement (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13285:10)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12899:19)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12767:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12744:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13316:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:13309:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12622:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:12612:25)
+      at TypeScriptParserMixin.parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14488:25)
+      at TypeScriptParserMixin.parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:10126:18)
+      at parse (C:\Users\Administrator\Downloads\187a9ce5e_build-your-dream-home-backend-f80b69a4-main2\node_modules\@babel\parser\lib\index.js:14522:38)
+      at parseAst (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-utils/dist/esm/ast.js:7:9)
+      at compileCodeSplitVirtualRoute (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/code-splitter/compilers.js:555:14)
+      at handleCompilingVirtualFile (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-code-splitter-plugin.js:120:18)
+      at TransformPluginContext.handler (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/@tanstack/router-plugin/dist/esm/core/router-code-splitter-plugin.js:191:13)
+      at TransformPluginContext.<anonymous> (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/unplugin/dist/index.js:636:19)
+      at EnvironmentPluginContainer.transform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:28801:51)
+      at async loadAndTransform (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:22670:26)
+      at async viteTransformMiddleware (file:///C:/Users/Administrator/Downloads/187a9ce5e_build-your-dream-home-backend-f80b69a4-main2/node_modules/vite/dist/node/chunks/config.js:24546:20)
